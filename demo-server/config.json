@@ -1,0 +1,6 @@
+{
+	"TWITTER_CONSUMER_KEY": "Your consumer key goes here",
+	"TWITTER_CONSUMER_SECRET": "Your consumer secret goes here",
+	"TWITTER_ACCESS_TOKEN": "Your access token goes here",
+	"TWITTER_ACCESS_TOKEN_SECRET": "Your access token secret goes here"
+}

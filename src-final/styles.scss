@@ -1,0 +1,5 @@
+/* You can add global styles to this file, and also import other style files */
+@import '~@imo/ng-ui/_theme.scss';
+@import 'node_modules/toastr-ng2/toastr';
+
+@include imo-theme(null);
